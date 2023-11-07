@@ -30,5 +30,6 @@ import { RouterView } from 'vue-router'
   font-weight: 900;
   font-size: 18px;
   text-align: center;
+  letter-spacing: .4px;
 }
 </style>
